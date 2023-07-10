@@ -1,0 +1,14 @@
+{
+  "name": "@j-lints/commitlint-config",
+  "description": "统一 commitLint 配置",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@commitlint/cli": "^17.6.6",
+    "@commitlint/config-conventional": "^17.6.6"
+  }
+}

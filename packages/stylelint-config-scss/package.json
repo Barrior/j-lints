@@ -1,0 +1,15 @@
+{
+  "name": "@j-lints/stylelint-config-scss",
+  "description": "统一 StyleLint 配置",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "stylelint": "^15.10.1",
+    "stylelint-config-standard-scss": "^10.0.0",
+    "stylelint-order": "^6.0.3"
+  }
+}
