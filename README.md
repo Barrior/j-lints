@@ -2,9 +2,13 @@
 
 统一 Lint 包集合，包含 ESLint, StyleLint, CommitLint 等
 
-## ESLint
+## ESLint - ts
 
-[@j-lints/eslint-config-react-ts](./packages/eslint-config-react-ts/README.md)
+[@j-lints/eslint-config-ts](./packages/eslint-config-ts/README.md)
+
+## ESLint - react
+
+[@j-lints/eslint-config-ts-react](./packages/eslint-config-ts-react/README.md)
 
 ## StyleLint
 

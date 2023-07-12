@@ -1,6 +1,6 @@
 {
-  "name": "@j-lints/eslint-config-react-ts",
-  "description": "统一 ESLint 配置: react + typescript 技术栈",
+  "name": "@j-lints/eslint-config-ts",
+  "description": "统一 ESLint 配置: typescript 语言",
   "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",

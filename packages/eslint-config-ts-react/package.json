@@ -1,0 +1,22 @@
+{
+  "name": "@j-lints/eslint-config-ts-react",
+  "description": "统一 ESLint 配置: react + typescript 技术栈",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.59.8",
+    "@typescript-eslint/parser": "^5.59.8",
+    "eslint": "^8.38.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-simple-import-sort": "^10.0.0",
+    "eslint-plugin-unused-imports": "^2.0.0",
+    "prettier": "^2.8.8",
+    "typescript": "^5.1.6"
+  }
+}
