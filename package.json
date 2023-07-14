@@ -26,6 +26,10 @@
       "prettier --write --no-error-on-unmatched-pattern"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barrior/j-lints.git"
+  },
   "devDependencies": {
     "@j-lints/commitlint-config": "^0.0.1",
     "@j-lints/eslint-config-ts": "^0.0.1",

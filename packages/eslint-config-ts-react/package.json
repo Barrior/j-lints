@@ -7,6 +7,10 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barrior/j-lints.git"
+  },
   "dependencies": {
     "@j-lints/eslint-config-ts": "^0.0.1",
     "eslint-plugin-react-hooks": "^4.6.0"
