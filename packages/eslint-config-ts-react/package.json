@@ -1,7 +1,7 @@
 {
   "name": "@j-lints/eslint-config-ts-react",
   "description": "统一 ESLint 配置: react + typescript 技术栈",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "license": "MIT",
   "files": [
@@ -15,7 +15,7 @@
     "url": "git+https://github.com/Barrior/j-lints.git"
   },
   "dependencies": {
-    "@j-lints/eslint-config-ts": "^0.0.1",
+    "@j-lints/eslint-config-ts": "^0.0.2",
     "eslint-plugin-react-hooks": "^4.6.0"
   }
 }

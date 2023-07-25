@@ -1,7 +1,7 @@
 {
   "name": "@j-lints/eslint-config-ts",
   "description": "统一 ESLint 配置: typescript 语言",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "license": "MIT",
   "files": [
