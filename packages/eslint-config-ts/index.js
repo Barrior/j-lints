@@ -8,7 +8,12 @@ module.exports = {
     browser: true,
     node: true,
   },
-  plugins: ['@typescript-eslint', 'import', 'simple-import-sort', 'unused-imports'],
+  plugins: [
+    '@typescript-eslint',
+    'import',
+    'simple-import-sort',
+    'unused-imports',
+  ],
   extends: [
     'eslint:recommended',
     'plugin:@typescript-eslint/recommended',
@@ -20,7 +25,6 @@ module.exports = {
     'prettier/prettier': [
       'error',
       {
-        printWidth: 100,
         tabWidth: 2,
         semi: false,
         singleQuote: true,
